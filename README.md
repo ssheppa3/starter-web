@@ -1,11 +1,11 @@
 # Starter Web Repository
-This repository is for showing how Git and GitHub works
+This is a basic repository for showing how Git and GitHub together.
 
 ## Introduction
 
 ## Purpose
-Sample website with plenty of files for demos
+
+## Deployment
 
 ## How to Contribute
 
-## Deployment
