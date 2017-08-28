@@ -1,7 +1,7 @@
 # Starter Web Repository
 
 This is a basic repository for 
-showing how Git and GitHub together.
+showing how Git and GitHub can work together.
 
 ## Introduction
 
